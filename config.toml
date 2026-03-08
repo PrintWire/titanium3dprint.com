@@ -1,0 +1,64 @@
+baseURL = "https://titanium3dprint.com/"
+languageCode = "en-us"
+title = "Titanium 3D Print"
+theme = "printwire-theme"
+
+[params]
+  siteName       = "Titanium 3D Print"
+  tagline        = "Titanium 3D Print — Ti6Al4V DMLS titanium printing. 993–1,055 MPa tensile strength, 99.5% density, ASTM F136 compliance. Aerospace and medical grade."
+  primaryColor   = "#5a9fd4"
+  bgColor        = "#050a10"
+  fontPrimary    = "Orbitron"
+  fontSecondary  = "Space Grotesk"
+  fontURL        = "https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+  ogImage        = "https://images.unsplash.com/photo-1759307335435-aa671e13127f?w=1200&q=80"
+  favicon        = "🔩"
+  pubmedQuery    = "titanium+3D+printing+DMLS+Ti6Al4V+aerospace+medical"
+  contactEmail   = "maxdavisgroup@gmail.com"
+  web3formsKey   = "6f33053b-6d08-414b-9615-665f88c98da8"
+  xometryId      = "XOMETRY_AFFILIATE_ID"
+  domain         = "titanium3dprint.com"
+  heroImage      = "https://images.unsplash.com/photo-1759307335435-aa671e13127f?w=1200&q=80"
+
+[[params.stats]]
+  number = "1055"
+  label  = "MPa Tensile Strength"
+
+[[params.stats]]
+  number = "99.5%"
+  label  = "Part Density"
+
+[[params.stats]]
+  number = "ASTM"
+  label  = "F136 Compliance"
+
+[[params.stats]]
+  number = "4.43"
+  label  = "g/cm³ Density"
+
+[[params.services]]
+  title = "Ti6Al4V DMLS Parts"
+  icon  = "◎"
+  image = "https://images.unsplash.com/photo-1759307335435-aa671e13127f?w=600&q=80"
+  short = "Ti6Al4V DMLS parts at 993–1,055 MPa, 4.43 g/cm³, 99.5% density. Aerospace, medical, motorsport."
+
+[[params.services]]
+  title = "Medical Titanium Implants"
+  icon  = "✦"
+  image = "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&q=80"
+  short = "Patient-specific implants in ASTM F136 Ti6Al4V ELI with porous osseointegration lattices."
+
+[[params.services]]
+  title = "Aerospace Titanium"
+  icon  = "⚙"
+  image = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=600&q=80"
+  short = "Topology-optimized titanium brackets, ducting, and structural hardware for aerospace — 30–60% mass reduction versus machined."
+
+[[params.services]]
+  title = "Post-Processing"
+  icon  = "◈"
+  image = "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&q=80"
+  short = "HIP, stress relief, CNC machining, electropolish, and Type II/III anodizing for titanium DMLS parts."
+
+[markup.goldmark.renderer]
+  unsafe = true
