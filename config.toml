@@ -14,3 +14,6 @@ title = "TITANIUM3DPRINT"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "JSON"]
