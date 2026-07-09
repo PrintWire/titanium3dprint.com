@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "TITANIUM3DPRINT"
 
 [params]
+ogImage       = "/images/13-batch-build-plate-overhead.png"
   description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
   siteName = "TITANIUM3DPRINT"
 logoHtml = 'TITANIUM<span class="ed-logo-accent">3D</span>PRINT'
