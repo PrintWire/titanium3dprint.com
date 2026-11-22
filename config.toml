@@ -4,7 +4,7 @@ title = "TITANIUM3DPRINT"
 
 [params]
 ogImage       = "/images/13-batch-build-plate-overhead.png"
-  description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
+  description = "TITANIUM 3D PRINT is a PrintWire network site about titanium 3D printing. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
   siteName = "TITANIUM3DPRINT"
 logoHtml = 'TITANIUM<span class="ed-logo-accent">3D</span>PRINT'
   tagline = "The authoritative source for metal additive manufacturing news"
